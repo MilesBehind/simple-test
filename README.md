@@ -1,3 +1,3 @@
-# simple-test
-simple test of github features
-added new line just 1 minute ago
+# Simple-Test
+Simple test of github features.
+Added new line just 1 minute ago
